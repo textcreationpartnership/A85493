@@ -1,0 +1,632 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Love given o're: or, A satyr against the pride, lust, and inconstancy, &amp;c. of woman.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1685</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 28 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A85493</idno>
+            <idno type="STC">Wing G1424</idno>
+            <idno type="STC">ESTC R214276</idno>
+            <idno type="EEBO-CITATION">45097805</idno>
+            <idno type="OCLC">ocm 45097805</idno>
+            <idno type="VID">171390</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A85493)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 171390)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2572:39)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Love given o're: or, A satyr against the pride, lust, and inconstancy, &amp;c. of woman.</title>
+                  <author>Brown, Thomas, 1663-1704.</author>
+                  <author>Gould, Robert, d. 1709?</author>
+               </titleStmt>
+               <extent>[4], 12 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for R. Bentley, and J. Tonson.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1685.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Variously attributed to Robert Gould and Thomas Brown. cf. NUC pre-1956 imprints.</note>
+                  <note>In verse.</note>
+                  <note>Reproduction of original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Women --  Poetry.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-07</date>
+            <label>Greg Schutz</label>Sampled and proofread</change>
+         <change>
+            <date>2010-07</date>
+            <label>Greg Schutz</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:171390:1"/>
+            <pb facs="tcp:171390:1" rendition="simple:additions"/>
+            <p>Love given o're: OR, A SATYR AGAINST THE Pride, Luſt, and Inconſtancy, &amp;c. OF WOMAN.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>R. Bentley,</hi> and <hi>J. Tonſon.</hi> 1685.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:171390:2"/>
+            <pb facs="tcp:171390:2"/>
+            <head>TO THE READER.</head>
+            <p>THE Pious Endeavours of the Gown, has not prov'd more ineffectual in the reclaiming the Errors of a vitious Age, than <hi>Satyr</hi> (the better way, tho' leſs practis'd) the amendment of Honeſty, and good Manners amongſt us. Nor is it a wonder, when we conſider that Women, (as if they had the ingredient of Fallen-Angel in their compoſition) the more they are laſh'd, are but the more hard<g ref="char:EOLhyphen"/>ned in Impenitence: and as Children in ſome violent Diſtemper, commonly ſpit out thoſe cheri<g ref="char:EOLhyphen"/>ſhing Cordials, which if taken, might chace away the Malady: So they (inſpir'd as 'twere with a natural averſneſs to Vertue) deſpiſe that whol<g ref="char:EOLhyphen"/>ſom Counſel, which is Religiouſly deſign'd for their future good, and happineſs. Judge then, if <hi>Satyr</hi> ever had more need of a ſharper ſting than now: when he can look out of his Cell on no ſide, but ſees ſo many Objects beyond the
+<pb facs="tcp:171390:3"/>reach of indignation. Nor is it altogether un<g ref="char:EOLhyphen"/>reaſonable for me (while others are laſhing the Rebellious Times into Obedience) to have one fling at <hi>Woman,</hi> the Original of Miſchief. Altho' I'me ſenſible I might as well expect to ſee Truth and Honeſty uppermoſt in the World, as think to be free from the Bitterneſs of their Reſentments: But I have no reaſon to be con<g ref="char:EOLhyphen"/>cern'd at that; ſince I'me certain my deſign's as far from offending the good, (if there are any amongſt 'em that can be ſaid to be ſo) as thoſe few that are good, would be offended at their Reception into the Eternal Inhabitations of Peace, to be Crown'd there with the Sacred Reward of their Labours. As for thoſe that are ill, if it reflect on them, it ſucceeds accord<g ref="char:EOLhyphen"/>ing to my wiſh; for I have no other deſign but the amendment of Vice, which if I could but in the leaſt accompliſh, I ſhould be well pleas'd; and not without reaſon too; for it muſt needs be a ſatisfaction to a young unskilful Archer, to hit the firſt Mark he ever aim'd at.</p>
+            <closer>
+               <salute>Farewel.</salute>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb n="1" facs="tcp:171390:3" rendition="simple:additions"/>
+            <head>Love given o're: OR, A SATYR AGAINST WOMAN.</head>
+            <lg>
+               <l>AT length from Love's vile Slav'ry I am free,</l>
+               <l>And have regain'd my ancient Liberty:</l>
+               <l>I've ſhook thoſe Chains off which my bondage wrought,</l>
+               <l>Am free as Air, and unconfin'd as thought;</l>
+               <l>For faithleſs <hi>Silvia</hi> I no more adore,</l>
+               <l>Kneel at her feet, and pray in vain no more:</l>
+               <l>No more my Verſe ſhall her fled worth proclaim,</l>
+               <l>And with ſoft praiſes celebrate her Name:</l>
+               <l>Her Frowns do now no awful terrours bear;</l>
+               <l>Her Smiles no more can cure or cauſe deſpair.</l>
+               <l>I've baniſh'd her for ever from my Breaſt,</l>
+               <l>Baniſh'd the proud Invader of my reſt,</l>
+               <l>Baniſh'd the Tyrant Author of my woes,</l>
+               <l>That robb'd my Soul of all its ſweet repoſe:</l>
+               <l>Not all her treach'rous, Arts, bewitching Wiles,</l>
+               <l>Her Sighs, her Tears, nor her deluding Smiles,</l>
+               <l>Shall my eternal Reſolution move,</l>
+               <l>Or make me talk, or think, or dream of Love:</l>
+               <l>The whining Curſe I've baniſh'd from my Mind,</l>
+               <l>And with it, all the thoughts of Womankind.</l>
+               <l>Come then my Muſe, and ſince th' occaſion's fair,</l>
+               <l>'Gainſt the lew'd Sex proclaim an endleſs War;</l>
+               <l>Which may renew as ſtill my Verſe is read,</l>
+               <l>And live, when I amaningl'd with the dead:</l>
+               <pb n="2" facs="tcp:171390:4"/>
+               <l>Diſcover all their various ſorts of Vice,</l>
+               <l>The Rules by which they ruine and intice,</l>
+               <l>Their Folly, Falſhood, Lux'ry, Luſt, and Pride,</l>
+               <l>With all their num'rous Race of Crimes beſide:</l>
+               <l>Unvail 'em quite to ev'ry vulgar Eye,</l>
+               <l>And in that ſhameful poſture let 'em lie,</l>
+               <l>Till they (as they deſerve) become to be</l>
+               <l>Abhorr'd by all Mankind, as they 're abhorr'd by me.</l>
+            </lg>
+            <lg>
+               <l>Woman! by Heav'ns the very Name's a Crime,</l>
+               <l>Enough to blaſt, and to debauch my Rhime.</l>
+               <l>Sure Heav'n it ſelf (intranc't) like <hi>Adam</hi> lay,</l>
+               <l>Or elſe ſome baniſh'd Fiend uſurp't the ſway</l>
+               <l>When <hi>Eve</hi> was form'd; and with her, uſher'd in</l>
+               <l>Plagues, Woes, and Death, and a new World of Sin.</l>
+               <l>The fatal Rib was crooked and unev'n,</l>
+               <l>From whence they have their Crab-like Nature giv'n;</l>
+               <l>Averſe to all the Laws of Man, and Heav'n.</l>
+            </lg>
+            <lg>
+               <l>O <hi>Lucifer,</hi> thy Regions had been thin,</l>
+               <l>Were't not for Womans propagating Sin:</l>
+               <l>'Tis they alone that all true Vices know;</l>
+               <l>And ſend ſuch Throngs down to thy Courts below:</l>
+               <l>More Souls they've made obedient to thy Raign,</l>
+               <l>Than Heav'n, and Earth, and Seas beſide, contain.</l>
+               <l>True, the firſt Woman gave the firſt bold Blow,</l>
+               <l>And bravely ſail'd down to th' Abyſs below;</l>
+               <l>But had the great Deed ſtill been left undone,</l>
+               <l>None of the daring Sex, no, hardly one,</l>
+               <l>But in the very ſelf-ſame path would go,</l>
+               <l>Tho' ſure 'twou'd lead 'em to eternal woe:</l>
+               <l>Find me ye pow'rs, find one amongſt 'em all,</l>
+               <l>That does not envy <hi>Eve</hi> the glory of the Fall:</l>
+               <l>Be cautious then, and guard your Empire well;</l>
+               <l>For ſhou'd they once get power to rebel,</l>
+               <l>They'd ſurely raiſe a Civil-War in Hell,</l>
+               <l>Add to the pains you feel; and make you know,</l>
+               <l>W'are here above, as Curſt as you below.</l>
+            </lg>
+            <lg>
+               <l>How happy had we been, had Heav'n deſign'd</l>
+               <l>Some other way to propagate our kind?</l>
+               <l>For whatſo'ere thoſe All-diſcerning Pow'rs</l>
+               <l>Created Good: Wife! Nauſeous Wife! turn'd ſow'r;</l>
+               <pb n="3" facs="tcp:171390:4" rendition="simple:additions"/>
+               <l>Debauch'd th' innocent, Ambroſial meat,</l>
+               <l>And (like <hi>Eves</hi> Apple) made it Death to eat:</l>
+               <l>But curſt be the vile Name, and curſt be they,</l>
+               <l>Who are ſo tamely Dull as to obey.</l>
+               <l>The Slaves they may command; Is there a Dog,</l>
+               <l>Who, when he may have freedom, wears a Clog?</l>
+               <l>But Man, baſe Man, the more imprudent Beaſt,</l>
+               <l>Drags the dull weight when he may be releas't:</l>
+               <l>May ſuch ye Gods (too many ſuch we ſee)</l>
+               <l>While they live here, juſt only live, to be</l>
+               <l>The marks of Scorn, Contempt, and Infamy.</l>
+               <l>But if the Tide of Nature boiſt'rous grow,</l>
+               <l>And would Rebelliouſly its Banks o'erflow,</l>
+               <l>Then chuſe a Wench, who (full of lewd deſires)</l>
+               <l>Can meet your flouds of Love with equal fires;</l>
+               <l>And will, when e're you let the Deluge flie,</l>
+               <l>Through an extended Sluce ſtrait drain it dry;</l>
+               <l>That Whirl-pool Sluce which never knows a Shore,</l>
+               <l>Ne're can be fill'd ſo full as to run o're,</l>
+               <l>For ſtill it gapes, and ſtill cries—room for more!</l>
+               <l>Such only damn the Soul; but a damn'd Wife,</l>
+               <l>Damns that, and with it all the Joys of Life:</l>
+               <l>And what vain Blockhead is ſo dull, but knows,</l>
+               <l>That of two Ills the leaſt is to be choſe.</l>
+            </lg>
+            <lg>
+               <l>But now, ſince Womans boundleſs Luſt I name,</l>
+               <l>Womans unbounded Luſt I'le firſt proclaim:</l>
+               <l>Trace it through all the ſecret various ways,</l>
+               <l>Where it ſtill runs in an eternal Maze:</l>
+               <l>And ſhow that our lewd Age has brought to view,</l>
+               <l>What impious <hi>Sodom,</hi> and <hi>Gomorrah</hi> too,</l>
+               <l>Were they what once they were, would bluſh to do.</l>
+               <l>True, I confeſs that <hi>Rome</hi>'s Emperial Whore,</l>
+               <l>(More Fam'd for Luſt, than for the Crown ſhe wore)</l>
+               <l>Aſpir'd to Deeds ſo impiouſly high,</l>
+               <l>That their immortal Fame will never die:</l>
+               <l>Into the publick Stews (diſguis'd) ſhe thruſt,</l>
+               <l>To quench the raging Fury of her Luſt:</l>
+               <l>Her part againſt th' Aſſembly ſhe made good,</l>
+               <l>And all the Sallies of their Luſt withſtood,</l>
+               <pb n="4" facs="tcp:171390:5" rendition="simple:additions"/>
+               <l>And detain'd 'em dry? exhauſted all their ſtore;</l>
+               <l>Yet all could not content th' inſatiate Whore,</l>
+               <l>Her C—like the dull Grave, ſtill gap't for more.</l>
+               <l>This, this ſhe did, and bravely got her Name,</l>
+               <l>Born up for ever on the Wings of Fame:</l>
+               <l>Yet this is poor, to what our Modern Age</l>
+               <l>Has hatch'd, brought forth, and acted on the Stage.</l>
+               <l>Which for the Sex's glory I'le reherſe;</l>
+               <l>And make that deathleſs, as that makes my Verſe.</l>
+            </lg>
+            <lg>
+               <l>Who knew not (for to whom was ſhe unknown)</l>
+               <l>Our late illuſtrious <hi>Bewley?</hi> (true, ſhe's gone</l>
+               <l>To anſwer for the num'rous Ills ſh'as done;</l>
+               <l>Who, tho' in Hell (in Hell, if any where)</l>
+               <l>Hemm'd round with all the flames and tortures there,</l>
+               <l>Finds 'em not fiercer, tho ſhefeels the worſt,</l>
+               <l>Then when ſhe liv'd, her own wild flames of Luſt.)</l>
+               <l>As <hi>Albions</hi> Iſle faſt rooted in the Main,</l>
+               <l>Does the rough Billows raging force diſdain,</l>
+               <l>Which tho' they foam, and with loud terrors rore,</l>
+               <l>Yet they can never reach beyond their ſhore.</l>
+               <l>So ſhe with Luſts Enthuſiaſtick Rage,</l>
+               <l>Suſtain'd all the ſalt Stallions of the Age.</l>
+               <l>Whole Legions ſhe encounter'd, Legions fir'd;</l>
+               <l>Inſatiate yet, ſtill freſh Supplies deſir'd.</l>
+               <l>Illuſtrious Bawd! whoſe Fame ſhall be diſplay'd,</l>
+               <l>When Heroes Glories are in Silence laid,</l>
+               <l>I as profound a Silence, as the Slaves</l>
+               <l>Their conq'ring Swords diſpatch'd into their Graves.</l>
+               <l>But Bodies muſt decay; for 'tis too ſure,</l>
+               <l>There's nothing from the Jaws of Time ſecure.</l>
+               <l>Yet, when ſhe found that ſhe could do no more,</l>
+               <l>When all her Body was one putrid Sore,</l>
+               <l>Studded with Pox, and Ulcers quite all o're;</l>
+               <l>Ev'n then, by her deluſive treach'rous Wiles,</l>
+               <l>(Which ſhow'd moſt ſpecious when they moſt beguil'd)</l>
+               <l>Sh' enroll'd more Females in the Liſt of Whore,</l>
+               <l>Than all the Arts of Man e're did before.</l>
+               <l>Preſt with the pond'rous guilt, at length ſhe fell,</l>
+               <l>And through the ſolid Centre ſunk to Hell:</l>
+               <pb n="5" facs="tcp:171390:5" rendition="simple:additions"/>
+               <l>The murm'ring Fiends all hover'd round about,</l>
+               <l>And in hoarſe howls did the great Bawd ſalute;</l>
+               <l>Amaz'd to ſee a ſordid lump of Clay,</l>
+               <l>Stain'd with more various bolder Crimes than they:</l>
+               <l>Nor were her torments leſs; for the dire Train,</l>
+               <l>Soon ſent her howling through the rowling flames,</l>
+               <l>To the ſad ſeat of everlaſting pain.</l>
+               <l>
+                  <hi>Creſswold,</hi> and <hi>Stratford,</hi> the ſame Path do tread;</l>
+               <l>In Luſt's black Volumes ſo profoundly read,</l>
+               <l>That whereſoe're they die, we well may fear,</l>
+               <l>The very tincture of the Crimes they bear,</l>
+               <l>With ſtrange infuſion may inſpire the duſt,</l>
+               <l>And in the Grave commit true acts of Luſt.</l>
+            </lg>
+            <lg>
+               <l>And now, if ſo much to the World's reveal'd,</l>
+               <l>Reflect on the vaſt Stores that lie conceal'd,</l>
+               <l>How, when into their Cloſets they retire,</l>
+               <l>Where flaming Dil—s does inflame deſire,</l>
+               <l>And gentle Lap-d—s feed the am'rous fire:</l>
+               <l>Lap-d—s! to whom they are more kind and free,</l>
+               <l>Than they themſelves to their own Husbands be.</l>
+               <l>How curſt is Man! when Brutes his Rivals prove,</l>
+               <l>Ev'n in the ſacred Buſineſs of his Love.</l>
+               <l>Great was the wiſe Man's ſaying, great, as true;</l>
+               <l>And we well know, than he none better knew;</l>
+               <l>Ev'n he himſelf acknowledges the Womb</l>
+               <l>To be as greedy as the gaping Tomb:</l>
+               <l>Take Men, Dogs, Lions, Bears, all ſorts of Stuff,</l>
+               <l>Yet it will never cry—there is enough.</l>
+               <l>Nor are their Conſciences (which can betray</l>
+               <l>Where e're they're ſworn to love) leſs large than they;</l>
+               <l>Conſciences, ſo lewdly unconfin'd!</l>
+               <l>That ev'ry one wou'd, cou'd they act their mind,</l>
+               <l>To their own ſingle ſhare engroſs ev'n all Mankind.</l>
+               <l>And when the Mind's corrupt, we all well know,</l>
+               <l>The actions that proceed from't muſt be ſo.</l>
+               <l>Their guilt's as great who any ills wou'd do,</l>
+               <l>As theirs who freely do thoſe ills purſue:</l>
+               <l>That they would have it ſo their Crime aſſures;</l>
+               <l>Thus if they durſt, all Women would be Whores.</l>
+               <pb n="6" facs="tcp:171390:6"/>
+               <l>Forgive me Modeſty, if I have been</l>
+               <l>In any thing I have mention'd here, Obſcene;</l>
+               <l>Since my Deſign is to detect their Crimes,</l>
+               <l>Which (like a Deluge) overflow the Times:</l>
+               <l>But hold—Why ſhou'd I ask that Boon of thee,</l>
+               <l>When 'tis a doubt if ſuch a thing there be;</l>
+               <l>For Woman in whoſe Breaſts thou'rt ſaid to raign,</l>
+               <l>And ſhow the glorious Conqueſts thou doſt gain,</l>
+               <l>Deſpiſes thee, and only Courts thy Name:</l>
+               <l>(Sounds tho' we cannot ſee, yet we may hear;</l>
+               <l>And wonder at their Ecchoing through the Air.)</l>
+               <l>Thus led by what deluſive Fame imparts,</l>
+               <l>We think thy Throne's erected in their Hearts;</l>
+               <l>But we'are deceiv'd; as faith we ever were,</l>
+               <l>For if thou art, I'me ſure thou art not there:</l>
+               <l>Nothing in thoſe vile Manſions does reſide,</l>
+               <l>But rank Ambition, Luxury, and Pride.</l>
+               <l>Pride is the Deity they moſt adore;</l>
+               <l>Hardly their own dear ſelves they cheriſh more:</l>
+               <l>When ſhe commands, her Dictates they obey</l>
+               <l>As freely, as the Lamp that guides the Day,</l>
+               <l>Rowls round the Globe to its great Maker's Will;</l>
+               <l>Vain ſenſleſs Sex! how ſwift they fly to ill;</l>
+               <l>'Tis true, Pride revels chiefly in the Heart,</l>
+               <l>From whence ſhe does diffuſe with impious Art</l>
+               <l>Her nauſeous Poyſon into ev'ry part:</l>
+               <l>Survey their very Looks, you'l find it there;</l>
+               <l>How can you miſs it when 'tis ev'ry where?</l>
+               <l>Some, through all hunted Nature's Secrets trace,</l>
+               <l>To fill the Furrows of a wrinkl'd Face;</l>
+               <l>And after all their toyl (pray, mark the Curſe)</l>
+               <l>They've only made that which was bad, much worſe.</l>
+               <l>As ſome in ſtriving to make ill Coin paſs,</l>
+               <l>Have but the more diſcover'd that 'twas Braſs.</l>
+               <l>Nay thoſe that are reputed to be fair,</l>
+               <l>And know how courted, and admir'd they are,</l>
+               <l>Who one would think God had made ſo compleat,</l>
+               <l>They had no need to make his Gifts a Cheat;</l>
+               <l>Yet they too in adulteration ſhare,</l>
+               <l>And wou'd in ſpight of Nature be more fair.</l>
+               <pb n="7" facs="tcp:171390:6" rendition="simple:additions"/>
+               <l>Deluded Woman! tell me, where's the gain,</l>
+               <l>In ſpending Time upon a thing ſo vain?</l>
+               <l>Your precious Time, (O to your ſelves unkind!)</l>
+               <l>When 'tis uncertain you've an hour behind</l>
+               <l>Which you can call your own: For tho' y'are Fair,</l>
+               <l>And beautiful as Guardian Angels are;</l>
+               <l>Adorn'd by Nature, fitted out by Art,</l>
+               <l>In all the Glories that delude the Heart:</l>
+               <l>Yet tell me, tell; have they the pow'r to ſave?</l>
+               <l>Or can they priviledge you from the Grave?</l>
+               <l>The Grave which favors not the Rich or Fair;</l>
+               <l>Beauty with the Beaſt lies undiſtinguiſh'd there.</l>
+            </lg>
+            <lg>
+               <l>But hold—methinks I'me interrupted here,</l>
+               <l>By ſome Gay-Fop I neither Love nor Fear;</l>
+               <l>Who in theſe words his weakneſs does reveal,</l>
+               <l>And hurts that Wound which he ſhou'd ſtrive to heal.</l>
+            </lg>
+            <lg>
+               <l>"Soft Sir, methinks you too inveterate grow;</l>
+               <l>"Y'are ſo much their's, y'are to your ſelf a Foe,</l>
+               <l>"And more your Envy, than Diſcretion ſhow.</l>
+               <l>"Who'd Blame the Sun becauſe ſhe ſhines ſo bright,</l>
+               <l>"That we can't gaze upon his daz'ling light?</l>
+               <l>"When at the ſelf-ſame time he cheers the Earth,</l>
+               <l>"And gives the various Plants, and Bloſſoms birth.</l>
+               <l>"How does the Winter look, that naked thing,</l>
+               <l>"Compar'd with the freſh Glories of the Spring?</l>
+               <l>"Rivers, adorn the Earth; the Fiſh, the Seas;</l>
+               <l>"Flow'rs, and Graſs the Meadows; Fruit the Trees;</l>
+               <l>"The Stars, the Fields of Air through which they ride;</l>
+               <l>"And Woman, all the works of God beſide:</l>
+               <l>"Yet baſe detracting Envy wont allow</l>
+               <l>"They ſhould adorn themſelves; then pray Sir, now</l>
+               <l>"Produce ſome Reaſon's why y'are ſo ſevere;</l>
+               <l>For envious as you are you know they're Fair.</l>
+            </lg>
+            <lg>
+               <l>True Sir ſay I—ſo were thoſe Apples too,</l>
+               <l>Which in the midſt of the firſt Garden grew;</l>
+               <l>But when they were examin'd, all within,</l>
+               <l>Wrapt in a ſpecious and alluring skin,</l>
+               <l>Lay the rank baits of never dying Sin.</l>
+               <pb n="8" facs="tcp:171390:7"/>
+               <l>Nature made all things fair; 'tis not deny'd;</l>
+               <l>And dreſs'd 'em in an unaffected Pride:</l>
+               <l>The Earth, the Meadows, Rivers, Woods, and Flow'rs,</l>
+               <l>Proclaim the skill of their great Maker's pow'r;</l>
+               <l>And as they firſt were made, do yet remain,</l>
+               <l>And all their Prim'tive Beauties ſtill retain.</l>
+               <l>Nothing but vain fantaſtick Woman's chang'd;</l>
+               <l>And through all Miſchief's various Mazes rang'd:</l>
+               <l>And with ſtrange frantick Folly they have ſhown,</l>
+               <l>(Folly peculiar to themſelves alone)</l>
+               <l>More ways to Pride, Sloth, and all ſorts of Sin,</l>
+               <l>Than there are Fires in Hell to plunge 'em in.</l>
+               <l>Thus that they're Fair, you ſee is not deny'd;</l>
+               <l>But tell me, are th' Unhanſom free from Pride;</l>
+               <l>No no; the Strait, the Crooked, Ugly, Fair,</l>
+               <l>Have all promiſcuouſly an equal ſhare.</l>
+               <l>Thus Sir, you ſee how they're eſtrang'd and ſtray'd,</l>
+               <l>From what by Nature they at firſt were made.</l>
+               <l>Yet tho' ſo many of their Crimes I've nam'd,</l>
+               <l>That's ſtill untold for which they moſt are Fam'd:</l>
+               <l>A Sin! (tall as the Pyramids of old)</l>
+               <l>From whoſe aſpiring top we may behold</l>
+               <l>Enough to damn a World—what ſhould it be,</l>
+               <l>But (Curſe upon the name!) Inconſtancy?</l>
+               <l>O tell me, does the World thoſe Men contain</l>
+               <l>(For I have look't for ſuch but look't in vain)</l>
+               <l>Who ne're were drawn into their Fatal Snares?</l>
+               <l>Fatal I call 'em, for he's damn'd that's there.</l>
+               <l>Inſpir'd then by your Wrongs and my juſt ſpight,</l>
+               <l>I'le bring the Fiend unmask't to humane ſight,</l>
+               <l>Tho' hid in the black Womb of deepeſt Night.</l>
+               <l>No more the Wind, the faithleſs Wind, ſhall be</l>
+               <l>A <hi>Simile</hi> for their Inconſtancy;</l>
+               <l>For that ſometimes is fixt, but Woman's Mind,</l>
+               <l>Is never fixt, or to one Point inclin'd:</l>
+               <l>Leſs fixt than in a Storm the Billows be;</l>
+               <l>Or trembling Leaves upon an <hi>Aſpen</hi> Tree,</l>
+               <l>Which ne're ſtand ſtill, but (ev'ry way inclin'd)</l>
+               <l>Turn twenty times with the leaſt breath of Wind.</l>
+               <l>Leſs fixt than wanton Swallows while they play</l>
+               <l>In the Sun-beams, to welcome in the Day:</l>
+               <pb n="9" facs="tcp:171390:7" rendition="simple:additions"/>
+               <l>Now yonder, now they'r here, as ſoon are there,</l>
+               <l>In no place long, and yet are ev'ry where</l>
+               <l>Like a toſs'd Ship their Paſſions fall and riſe,</l>
+               <l>One while you'd think it touch'd the very Skies,</l>
+               <l>When ſtrait upon the Sand it grov'ling lies.</l>
+               <l>Ev'n ſhe her ſelf, <hi>Silvia,</hi> th' lov'd and fair,</l>
+               <l>Whoſe one kind look cou'd ſave me from deſpair;</l>
+               <l>She, ſhe whoſe Smiles I valu'd at that rate,</l>
+               <l>To enjoy them I ſcorn'd the frowns of Fate;</l>
+               <l>Ev'n ſhe her ſelf (but Ah! I'm loth to tell,</l>
+               <l>Or blame the Crimes of one I lov'd ſo well;</l>
+               <l>But it muſt out) ev'n ſhe, ſwift as the Wind,</l>
+               <l>Swift as the airy motions of the Mind,</l>
+               <l>At once prov'd falſe, and perjur'd, and unkind.</l>
+               <l>Here they to day invoke the Pow'rs above,</l>
+               <l>As Witneſſes to their Immortal Love;</l>
+               <l>When (lo!) away the airy Fantom flies,</l>
+               <l>And e're it can be ſaid to live, it dies:</l>
+               <l>Thus all Religious Vows, and Oaths they break,</l>
+               <l>With the ſame eaſe and freedom as they ſpeak.</l>
+               <l>Nor is that ſacred Idol, Marriage free,</l>
+               <l>(Marriage! which muſty Drones affirm to be</l>
+               <l>The tye of Souls, as well as Bodies! nay,</l>
+               <l>The Spring that does through unſeen Pipes convey</l>
+               <l>Freſh ſweets to Life, and drives the bitter dregs away!</l>
+               <l>The Sacred Flame, the Guardian Pile of Fire,</l>
+               <l>That guides our ſteps to peace! nor does expire,</l>
+               <l>Till it has left us nothing to deſire!</l>
+               <l>Ev'n thus adorn'd, the Idol is not free</l>
+               <l>From the ſwift turns of their Inconſtancy.</l>
+               <l>Witneſs the <hi>Epheſian</hi> Matron, whoſe lewd Act,</l>
+               <l>Has made her name Immortal as the Fact:</l>
+               <l>Who to the Grave with her dead Husband went,</l>
+               <l>And clos'd her ſelf up in his Monument;</l>
+               <l>Where on cold Marble ſhe lamenting lay,</l>
+               <l>In ſighs, ſhe ſpent the Night; in Tears, the Day.</l>
+               <l>The wond'ring World extoll'd her faithful Mind,</l>
+               <l>Extoll'd her as the beſt of Woman-kind:</l>
+               <l>But ſee the World's miſtake; and with it, ſee</l>
+               <l>The ſtrange effects of wild Inconſtancy!</l>
+               <pb n="10" facs="tcp:171390:8"/>
+               <l>For ſhe her ſelf, ev'n in that ſacred Room,</l>
+               <l>With one brisk, vig'rous On-ſet was o'recome,</l>
+               <l>And made a Brothel of her Husband's Tomb:</l>
+               <l>Whoſe pale Ghoſt trembl'd in its Sacred Shrowd,</l>
+               <l>Wond'ring that Heav'n th' Impious Act allow'd:</l>
+               <l>Horror in Robes of Darkneſs ſtalk't around;</l>
+               <l>And through the frighted Tomb did Groans reſound.</l>
+               <l>The very Marbles wept, the Furies howl'd,</l>
+               <l>And in hoarſe Murmurs their amazement told.</l>
+               <l>All this ſhook not the Dictates of her Mind,</l>
+               <l>But with a boldneſs, bold as was her Crime,</l>
+               <l>She made her Husband's Ghoſt (in Death, a Slave!)</l>
+               <l>Her neceſſary Pimp, ev'n in his Grave!</l>
+               <l>Are theſe (ye Gods) the Virtues of a Wife?</l>
+               <l>The Peace that Crowns a Matrimonial Life?</l>
+               <l>Is this the Sacred Prize for which Man fights?</l>
+               <l>Bliſs, of his Days? and Rapture, of his Nights?</l>
+               <l>The Rains, that guide him in his wild Careers?</l>
+               <l>And the Supporter of his feeble Years?</l>
+               <l>His Freedom, in his Chains? in Want his Store?</l>
+               <l>His Health, in Sickneſs? and his Wealth, when Poor?</l>
+               <l>No, no, 'tis Contradiction oppoſite,</l>
+               <l>As much as Heav'n's to Hell or Day's to Night.</l>
+               <l>They crown Man's Life with Peace? no, rather far,</l>
+               <l>They are the cauſe of all his Boſom-war;</l>
+               <l>The very Source, and Fountain of his Woes,</l>
+               <l>Ftom whence Deſpair, and Doubt for ever flows:</l>
+               <l>The Gall, that mingles with his beſt delight;</l>
+               <l>Rank, to the Taſte; and nauſeous to the Sight:</l>
+               <l>A Days, the weight of Care that clogs his Breaſt,</l>
+               <l>At Night the Hagg that does diſturb his reſt:</l>
+               <l>His mortal Sickneſs in the midſt of Health;</l>
+               <l>Chains, in his Freedom; Poverty in Wealth:</l>
+               <l>Th' Eternal Peſtilence, and Plague of Life;</l>
+               <l>Th' Original, and Spring of all his Strife;</l>
+               <l>Theſe rather are the Virtue, of a Wife!</l>
+               <l>Yet if all theſe ſhould not ſufficient be,</l>
+               <l>To make us underſtand our miſery,</l>
+               <l>See it ſumm'd up in their Inconſtancy:</l>
+               <pb n="11" facs="tcp:171390:8"/>
+               <l>In which, ſo many various ways they move,</l>
+               <l>They now Inconſtant in their Follies prove,</l>
+               <l>Ev'n as inconſtant as they do in Love:</l>
+               <l>Nor is't alone confin'd in thoſe to range,</l>
+               <l>Their Vices too themſelves admit of change,</l>
+               <l>Their deareſt darling Vices, Luſt, and Pride,</l>
+               <l>With all they promiſe, think, or dream beſide:</l>
+               <l>O how inconſtant then muſt Woman be,</l>
+               <l>When conſtant only in Inconſtancy?</l>
+            </lg>
+            <lg>
+               <l>O why, ye awful Pow'rs, why was't your Will</l>
+               <l>To mix our ſolid good with ſo much ill?</l>
+               <l>Unleſs 'twere when you found rebellious Man,</l>
+               <l>(For 'ere time was you cou'd their Actions ſcan)</l>
+               <l>Would commit Crimes ſo impious, and high,</l>
+               <l>That they were made your veng'ance to ſupply:</l>
+               <l>For not the wild deſtructive waſte of War,</l>
+               <l>Nor all the endleſs Lab'rinths of the Bar.</l>
+               <l>Famine, Revenge, perpetual loſs of Health,</l>
+               <l>No, nor that grinning Fiend, Deſpair it ſelf,</l>
+               <l>When it inſults with moſt tyrannick ſway,</l>
+               <l>Can plague or torture mankind more than they.</l>
+               <l>But hold—don't let me blame the Pow'rs Divine;</l>
+               <l>Or at the wond'rous Works they made, repine.</l>
+               <l>All firſt was good, form'd by th' eternal Will,</l>
+               <l>Tho' ſome has ſince degenerated to ill:</l>
+               <l>Ev'n Woman was (they ſay) made chaſte and good;</l>
+               <l>But Ah! not long in that bleſt State ſhe ſtood:</l>
+               <l>She fell, ſhe fell, and ſow'd the poys'nous Seeds</l>
+               <l>Of Murder, Rapine, all inhumane Deeds;</l>
+               <l>Which now ſo very firm have taken root,</l>
+               <l>That Heav'n in vain wou'd ſtrive to raze 'em out.</l>
+            </lg>
+            <lg>
+               <l>But ſtop my Pen; for who can comprehend,</l>
+               <l>Or trace thoſe Crimes which ne're can have an end?</l>
+               <l>The Sun, The Moon, the Stars that gild the Sky.</l>
+               <l>The World, and all its glories too muſt dye,</l>
+               <l>And in one univerſal Ruine lie:</l>
+               <l>But they ev'n Immortality will gain,</l>
+               <l>And live—but muſt for ever live in pain;</l>
+               <l>For ever live, damn'd to eternal Night,</l>
+               <l>And never more review the Sacred Light.</l>
+               <pb n="12" facs="tcp:171390:9"/>
+               <l>Beware then, dull deluded Man, beware;</l>
+               <l>And let not treacherous Woman be the Snare,</l>
+               <l>To make you the Companions with 'em there:</l>
+               <l>Scorn their vain Smiles, and all their Arts deſpiſe,</l>
+               <l>And your Content at that juſt value prize,</l>
+               <l>As not to let thoſe rav'nous Thieves of Prey,</l>
+               <l>Rifle, and bear the ſacred Prize away:</l>
+               <l>'Tis they, 'tis they that robs us of that Gem;</l>
+               <l>How cou'd we loſe it were it not for them?</l>
+               <l>Avoid 'em then, with all the gawdy Arts,</l>
+               <l>Which they ſtill practiſe to amuſe our Hearts;</l>
+               <l>Avoid 'em, as you wou'd avoid their Crimes,</l>
+               <l>Or the mad Follies that infeſt the Times;</l>
+               <l>Avoid 'em, as you wou'd the pains of Hell,</l>
+               <l>For in them, as in that, Damnation dwells.</l>
+            </lg>
+            <lg>
+               <l>But now, ſhou'd ſome (for doubtleſs we may find</l>
+               <l>Many a true bred Beaſt amongſt Mankind)</l>
+               <l>Shou'd ſuch contemn the wholeſom Rules I give,</l>
+               <l>And in contempt of what I've ſpoke, ſtill live</l>
+               <l>Like baſe-ſoul'd Slaves, ſtill thoſe vile Fetters wear,</l>
+               <l>When they may be as unconfin'd as Air,</l>
+               <l>Or the wing'd Race what does inhabit there;</l>
+               <l>May all the Plagues that Woman can invent,</l>
+               <l>Purſue 'em with eternal Puniſhment:</l>
+               <l>May they—but ſtay, my Curſes I foreſtall;</l>
+               <l>For in one Curſe I've comprehended all—</l>
+               <l>But ſay Sir, if ſome Pilot on the Main,</l>
+               <l>Shou'd be ſo mad, ſo reſolutely vain,</l>
+               <l>To ſteer his Bark upon that fatal Shore,</l>
+               <l>Where he has ſeen ten thouſand wrack't before,</l>
+               <l>Tho' he ſhou'd periſh there; ſay, wou'd you not</l>
+               <l>Beſtow a Curſe on the Notorious Sot?</l>
+               <l>Truſt me, the Man's as frenzical as he,</l>
+               <l>Who venturs his frail Bark out wilfully,</l>
+               <l>On the Wild, Rocky, Matrimonial Sea;</l>
+               <l>When round about, and juſt before his Eyes,</l>
+               <l>Such a deſtructive waſte of fatal Ruine lies.</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
